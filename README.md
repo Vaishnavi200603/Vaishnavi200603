@@ -1,5 +1,4 @@
 ## Vaishnavi Saxena
-## Hi there!!
 
 - 🔭 I'm currently working on Java Projects.
 - 🌱 I'm currently learning Spring Boot, Spring Cloud and Microservices.
