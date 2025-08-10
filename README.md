@@ -1,11 +1,11 @@
 ## Vaishnavi Saxena
 
-- 🔭 I'm currently working on Java Projects.
-- 🌱 I'm currently learning Spring Boot, Spring Cloud and Microservices.
-- 👯 I'm looking to collaborate on Advance and Enterprice level Java projects.
-- 💬 Ask me about Java, JDBC, JSP, SpringBoot and AWS.
-- 👩‍💻 Technologies: Java, Python, Javascript.
-- 📫 How to reach me: Contact me through [LinkedIn](https://www.linkedin.com/in/vaishnavi-saxena-49a111277/) or email(vaishnavi.saxena020@gmail.com)
+- 💼 I'm currently working as a Junior Java Developer, building real-world applications using Spring Boot and Microservices.
+- 🌱 Continuously learning advanced concepts in Spring Cloud, Microservices architecture, and scalable backend systems.
+- 🤝 Open to collaborating on enterprise-level Java projects and backend engineering challenges.
+- 💬 Ask me about Java, Spring Boot, REST APIs, JSP, JDBC, and AWS.
+- 👩‍💻 Tech Stack: Java, Spring Boot, Spring Cloud, PostgreSQL, AWS, Python, JavaScript.
+- 📫 Let's connect: Reach out via [LinkedIn]([your-link](https://www.linkedin.com/in/vaishnavi-saxena-49a111277/)) or email at vaishnavi.saxena020@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love reading good fiction books.
+- 📚 Fun fact: I love reading fiction that sparks creativity and inspires imagination.
 
